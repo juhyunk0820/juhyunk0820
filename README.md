@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhkang&theme=tokyonight)
+## 🧮 My GitHub Stats
+
+![](https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-summary-card-output/monokai/0-profile-details.svg)
+![](https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-summary-card-output/monokai/3-stats.svg)
