@@ -1,7 +1,7 @@
 name: GitHub Profile Summary Cards
 
 on:
-  #   workflow_dispatch:  # 수동 실행 가능
+  workflow_dispatch: # 수동 실행 가능
   schedule:
     - cron: "0 15 * * *" # ⏰ 한국 시간 기준 자정 (KST = UTC+9)
 
