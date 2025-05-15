@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### 🧮GitHub Stats
 
-![juhyunk0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyunk0820&show_icons=true&theme=tokyonight)
+![juhyunk0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyunk0820&show_icons=true&theme=tokyonight&hide=stars,contribs&count_private=true)
 ![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/0-profile-details.svg)
 
 #### 🛠️Tech Stack
