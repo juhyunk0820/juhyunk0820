@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧮 My GitHub Stats
-
-![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/3-stats.svg)
+<!-- ![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/3-stats.svg) -->
 
 ## 🧮 My GitHub Stats
 
 ![juhyunk0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyunk0820&show_icons=true&theme=tokyonight)
+![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/0-profile-details.svg)
