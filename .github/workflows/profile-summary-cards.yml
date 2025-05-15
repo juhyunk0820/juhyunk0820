@@ -3,13 +3,10 @@ name: GitHub Profile Summary Cards
 on:
   #   workflow_dispatch:  # 수동 실행 가능
   schedule:
-    - cron: "0 15 * * *" # ⏰ 한국 시간(KST) 00:00 = UTC 15:00
-  push:
-    branches:
-      - main
+    - cron: "0 15 * * *" # ⏰ 한국 시간 기준 자정 (KST = UTC+9)
 
 permissions:
-  contents: write # 결과 svg 푸시 권한
+  contents: write # 🔐 SVG 파일 커밋 권한
 
 jobs:
   build:
@@ -17,6 +14,9 @@ jobs:
     name: generate-github-profile-summary-cards
     steps:
       - uses: actions/checkout@v3
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: juhyunk0820
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 👉 인증 토큰 설정
