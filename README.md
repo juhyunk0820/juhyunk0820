@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## 🧮 My GitHub Stats
 
-![](https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-summary-card-output/monokai/3-stats.svg)
+![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/0-profile-details.svg)
+![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/juhyunk0820/juhyunk0820/main/profile-summary-card-output/monokai/3-stats.svg)
