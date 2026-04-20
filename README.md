@@ -2,7 +2,7 @@
 
 > **React Native Cross-Platform Developer** | 실사용자에게 닿는 모바일 앱을 만드는 개발자
 
-📍 Seoul, Korea · 🎓 세종대학교 컴퓨터공학과 (2026.02 졸업) · 📱 iOS / Android
+📍 Seoul, Korea · 🎓 세종대학교 컴퓨터공학과 (2026.02 졸업 예정) · 📱 iOS / Android
 
 ---
 
@@ -11,10 +11,16 @@
 반려동물 건강상담 앱 **AI 펫닥터**를 기획부터 스토어 출시까지 프론트엔드 단독으로 담당한 React Native 개발자입니다.
 **Apple IAP 정책 대응**, **Toss Payments 연동**, **GitHub Actions + Fastlane CI/CD 구축** 등 실제 프로덕션에서 마주하는 문제들을 직접 해결하며 성장해왔습니다.
 
-- 🏆 교내 창업시연대회 **3등 수상** (30팀 참가)
+### 🏆 Awards
+- 🥈 **세종대학교 컴퓨터공학과 캡스톤 디자인 우수상 (2등)** — AI 기반 실시간 교통안내 시스템
+- 🥉 **교내 창업시연대회 3등** (30팀 참가) — AI 페어링 앱 (데이팅 매칭 서비스)
+
+### 💼 Key Experiences
 - 📱 React Native 앱 **App Store / Play Store 정식 출시** 경험
 - 🛠 **Expo / React Native CLI / EAS** 세 가지 환경 모두 실전 경험
-- 🧩 BLE, 소셜 로그인(Apple/Kakao/Google), 결제(Toss Payments), 본인인증(PASS) 등 연동 경험 다수
+- 🧩 BLE, 소셜 로그인(Apple/Kakao/Google), 결제(Toss Payments), 본인인증(PASS) 연동 경험
+- 🔁 **GitHub Actions + Fastlane** 및 **EAS Build/Submit** 기반 CI/CD 구축 경험
+- 🧮 A* 알고리즘 구현, 100만 건 공공데이터 마이그레이션 등 CS 기초 기반 프로젝트
 
 ---
 
@@ -77,9 +83,10 @@
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | **AI 펫닥터** | AI 기반 반려동물 건강상담 앱 · **스토어 정식 출시** | RN, TS, Toss Payments | [App Store](https://apps.apple.com/kr/app/id6484592134) · [Play Store](https://play.google.com/store/apps/details?id=com.anlicy.petdoctor) |
+| **AI 기반 실시간 교통안내 시스템** | 공공데이터 100만 건 + AI 커스텀 + A* 알고리즘 · **캡스톤 우수상(2등)** | React, Python, A* | [Org](https://github.com/AI-based-ETA) |
 | **블루투스 페어링 앱** | 웰니스 디바이스 BLE 연동 앱 (프리랜서) | RN, BLE, 로컬 DB | *private* |
 | **Wit** | 여행 동행찾기 앱 · GitHub Actions + Fastlane CI/CD | RN, Expo, Zustand, React Query | [Repo](https://github.com/withtravel/FE-WitCli) |
-| **AI 페어링 앱** | AI 궁합 분석 데이팅 앱 · **교내 창업시연대회 3등** | RN CLI, Redux, 네이티브 코드 | *private* |
+| **AI 페어링 앱** | AI 궁합 분석 데이팅 앱 · **창업시연대회 3등** | RN CLI, Redux, 네이티브 코드 | *private* |
 | **항공 사고 조회 앱** | 항공 사고 데이터 크롤링·조회 앱 (외주) | RN, React Query, Zustand | [Repo](https://github.com/InquiryingAccident/IA-FE) |
 | **Malsami** | 세종대 자료 게시판 앱 · EAS/비-EAS CI/CD | RN, Expo | *private* |
 | **Match** | 테니스 대회 신청 앱 | RN, Expo, TailwindCSS | [Repo](https://github.com/Team-ServeItUp/FE-MatchExpo) |
