@@ -83,7 +83,7 @@
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | **AI 펫닥터** | AI 기반 반려동물 건강상담 앱 · **스토어 정식 출시** | RN, TS, Toss Payments | [App Store](https://apps.apple.com/kr/app/id6484592134) · [Play Store](https://play.google.com/store/apps/details?id=com.anlicy.petdoctor) |
-| **AI 기반 실시간 교통안내 시스템** | 공공데이터 100만 건 + AI 커스텀 + A* 알고리즘 · **캡스톤 우수상(2등)** | React, Python, A* | [Org](https://github.com/AI-based-ETA) |
+| **AI 기반 실시간 교통안내 시스템** | VDS 데이터로 학습한 Graph-WaveNet + A* 알고리즘 결합 · **캡스톤 우수상(2등)** | React, Flask, Graph-WaveNet, A* | [FE](https://github.com/AI-based-ETA/Capstone_Kakaomap) · [Org](https://github.com/AI-based-ETA) |
 | **블루투스 페어링 앱** | 웰니스 디바이스 BLE 연동 앱 (프리랜서) | RN, BLE, 로컬 DB | *private* |
 | **Wit** | 여행 동행찾기 앱 · GitHub Actions + Fastlane CI/CD | RN, Expo, Zustand, React Query | [Repo](https://github.com/withtravel/FE-WitCli) |
 | **AI 페어링 앱** | AI 궁합 분석 데이팅 앱 · **창업시연대회 3등** | RN CLI, Redux, 네이티브 코드 | *private* |
