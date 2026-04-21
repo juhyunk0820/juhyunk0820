@@ -40,7 +40,7 @@
 
 <a href="https://apps.apple.com/kr/app/id6484592134"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.anlicy.petdoctor"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/📖_Portfolio-FF5722?style=for-the-badge" /></a>
+<a href="https://noisy-alto-7c7.notion.site/Frontend-Developer-Portfolio-b7aa9390bde84b9b9bcc822e15f037b5"><img src="https://img.shields.io/badge/📖_Portfolio-FF5722?style=for-the-badge" /></a>
 
 > 📝 **코드는 클라이언트 소유 private 레포로 관리되므로 공개되지 않습니다. 포트폴리오 링크에서 상세 내용을 확인하실 수 있습니다.** *(※ 포트폴리오 링크는 노션 URL 확정 후 업데이트 예정)*
 
