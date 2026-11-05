@@ -105,7 +105,7 @@ React Native를 기반으로 고객의 요구를 앱 기능으로 구현하고 �
 
 ## 📫 Contact
 
-- 📧 **Email** — juhyunk0820@naver.com
+- 📧 **Email** — kjh002899@gmail.com
 - 📱 **Phone** — 010-9642-4868
 - 📖 **Portfolio** — [포트폴리오](https://juhyunkang-portfolio.notion.site/)
 
