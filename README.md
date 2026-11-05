@@ -16,27 +16,27 @@ React Native를 기반으로 고객의 요구를 앱 기능으로 구현하고 �
 
 ### 🏆 Awards
 - 🥈 **세종대학교 컴퓨터공학과 캡스톤 디자인 우수상 (2등)** — AI 기반 실시간 교통안내 시스템
-- 🥉 **교내 창업시연대회 3등** (30팀 참가) — AI 페어링 앱 (데이팅 매칭 서비스)
+- 🥉 **교내 창업시연대회 3등** — AI 페어링 앱 (데이팅 매칭 서비스)
 
 ### 💼 Key Experiences
 - 📱 React Native 앱 **App Store / Play Store 정식 출시** 경험
 - 🛠 **Expo / React Native CLI / EAS** 세 가지 환경 모두 실전 경험
 - 🧩 BLE, 소셜 로그인(Apple/Kakao/Google), 결제(Toss Payments), 본인인증(PASS) 연동 경험
 - 🔁 **GitHub Actions + Fastlane** 및 **EAS Build/Submit** 기반 CI/CD 구축 경험
-- 🧮 A* 알고리즘 구현, 100만 건 공공데이터 마이그레이션 등 CS 기초 기반 프로젝트
+- 🧮 A* 알고리즘 구현, 공공데이터포털 VDS 수집·정제·DB 인덱싱 경험
 
 ---
 
 ## 🚀 Featured Project
 
-### AI 펫닥터 — 반려동물 24시 건강상담 앱
+### AI 펫닥터 — 반려동물 건강상담 앱
 
 > **대모산개발단 프리랜서 프로젝트 (2025.11–2026.04)** — 반려동물 건강상담·커머스·멤버십 앱. **8인 팀 중 앱 프론트엔드 단독 담당, 2026.03 양대 스토어 v2.0 출시 및 v2.0.6 개선.** 백엔드·AI 모델은 별도 담당자가 개발했습니다.
 
 **Key Contributions**
-- `Apple IAP 정책 대응` — 디지털 재화를 멤버십 구조로 재설계하여 심사 통과, 수수료 **30% → 3%** 구조 확보
-- `Toss Payments` 연동 및 구독/실물상품 결제 로직 설계
-- `PASS 본인인증` 연동, 인증 성공률 **99% 달성**
+- `결제 구조 개선` — AI 펫닥터에서 Apple 인앱결제 대신 **Toss Payments PG 결제**를 연동해 결제 구조를 변경하고, 수수료 **30% → 3%** 구조 확보
+- `커머스·정기결제` — 구매·장바구니·결제 내역·취소와 멤버십 정기결제의 앱 흐름 구현, 카드 등록 절차·상태 표시 추가
+- `PASS 본인인증` — 인증 여부·CI와 PetPass 등록 상태를 가입·로그인·정보 입력 흐름에 연동
 - `React Query + Zustand` 기반 서버/클라이언트 상태 분리 아키텍처
 
 **Tech Stack** `React Native` `TypeScript` `Expo` `React Query` `Zustand` `Toss Payments`
@@ -75,7 +75,6 @@ React Native를 기반으로 고객의 요구를 앱 기능으로 구현하고 �
 
 **Collaboration**
 <br/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
@@ -86,13 +85,13 @@ React Native를 기반으로 고객의 요구를 앱 기능으로 구현하고 �
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | **AI 펫닥터** | 대모산개발단 프리랜서 · AI 기반 반려동물 건강상담 앱 · **스토어 정식 출시** | RN, TS, Toss Payments | [App Store](https://apps.apple.com/kr/app/id6484592134) · [Play Store](https://play.google.com/store/apps/details?id=com.anlicy.petdoctor) |
-| **AI 기반 실시간 교통안내 시스템** | VDS 데이터로 학습한 Graph-WaveNet + A* 알고리즘 결합 · **캡스톤 우수상(2등)** | React, Flask, Graph-WaveNet, A* | [FE](https://github.com/AI-based-ETA/Capstone_Kakaomap) · [Org](https://github.com/AI-based-ETA) |
+| **AI 기반 실시간 교통안내 시스템** | VDS 수집·정제·결측 보완·A* 구현 · **캡스톤 우수상(2등)** | React, Flask REST 연계, LightGBM, A* | [FE](https://github.com/AI-based-ETA/Capstone_Kakaomap) · [Org](https://github.com/AI-based-ETA) |
 | **Healing Sound** | 대모산개발단 프리랜서 · Android 웰니스 디바이스 BLE 연동 앱 · 고객 시연 후 BLE PoC 납품 | RN, BLE, 로컬 DB | *private* |
 | **Wit** | 여행 동행찾기 앱 · GitHub Actions + Fastlane CI/CD | RN, Expo, Zustand, React Query | [Repo](https://github.com/withtravel/FE-WitCli) |
 | **AI 페어링 앱** | AI 궁합 분석 데이팅 앱 · **창업시연대회 3등** | RN CLI, Redux, 네이티브 코드 | *private* |
-| **항공 사고 조회 앱** | 항공 사고 데이터 크롤링·조회 앱 (외주) | RN, React Query, Zustand | [Repo](https://github.com/InquiryingAccident/IA-FE) |
-| **Malsami** | 세종대 자료 게시판 앱 · EAS/비-EAS CI/CD | RN, Expo | *private* |
-| **Match** | 테니스 대회 신청 앱 | RN, Expo, TailwindCSS | [Repo](https://github.com/Team-ServeItUp/FE-MatchExpo) |
+| **항공 사고 조회 앱** | 기종·항공사·날짜 검색·필터링 앱 (별도 외주) | RN, React Query, Zustand | [Repo](https://github.com/InquiryingAccident/IA-FE) |
+| **Malsami** | 세종대 자료 게시판 앱 확장 · 모바일 API 협업 · EAS Build/Submit | RN, Expo | *private* |
+| **Match** | 테니스 대회 신청 앱 | RN, Expo | [Repo](https://github.com/Team-ServeItUp/FE-MatchExpo) |
 
 ---
 
