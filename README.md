@@ -23,6 +23,7 @@ PM 공백기에 고객·백엔드·디자이너와 결제 기능의 개발 범�
 - 🛠 **Expo / React Native CLI / EAS** 세 가지 환경 모두 실전 경험
 - 🧩 BLE, 소셜 로그인(Apple/Kakao/Google), 결제(Toss Payments), 본인인증(PASS) 연동 경험
 - 🔁 **GitHub Actions + Fastlane** 및 **EAS Build/Submit** 기반 CI/CD 구축 경험
+- 🖥 **개인 랩 사이트 운영** — Docker로 개발·운영 환경을 분리하고, GitHub Actions의 빌드 결과와 후보 웹의 HTTP 응답을 확인한 뒤 운영 버전을 교체합니다. 전환에 실패하면 이전 이미지로 복구합니다.
 - 🧮 A* 알고리즘 구현, 공공데이터포털 VDS 수집·정제·DB 인덱싱 경험
 
 ---
